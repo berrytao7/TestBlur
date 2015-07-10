@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestBlur</string>
+    <string name="hello_world">Hello world!</string>
+	<!-- blur level -->
+	<dimen name="blur_level">8dp</dimen>
+	<!-- color -->
+	<color name="bg_color">#7FFFFFFF</color>
+	<color name="bg_color2">#00FF00</color>
+</resources>
